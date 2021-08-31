@@ -1,0 +1,15 @@
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\bin\Debug\net5.0\GenericQueueDemo.exe
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\bin\Debug\net5.0\GenericQueueDemo.deps.json
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\bin\Debug\net5.0\GenericQueueDemo.runtimeconfig.json
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\bin\Debug\net5.0\GenericQueueDemo.runtimeconfig.dev.json
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\bin\Debug\net5.0\GenericQueueDemo.dll
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\bin\Debug\net5.0\ref\GenericQueueDemo.dll
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\bin\Debug\net5.0\GenericQueueDemo.pdb
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\obj\Debug\net5.0\GenericQueueDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\obj\Debug\net5.0\GenericQueueDemo.AssemblyInfoInputs.cache
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\obj\Debug\net5.0\GenericQueueDemo.AssemblyInfo.cs
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\obj\Debug\net5.0\GenericQueueDemo.csproj.CoreCompileInputs.cache
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\obj\Debug\net5.0\GenericQueueDemo.dll
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\obj\Debug\net5.0\ref\GenericQueueDemo.dll
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\obj\Debug\net5.0\GenericQueueDemo.pdb
+F:\DOTNET\GenericQueueDemo\GenericQueueDemo\obj\Debug\net5.0\GenericQueueDemo.genruntimeconfig.cache
